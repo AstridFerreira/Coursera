@@ -1,5 +1,5 @@
-# Data-Analysis-with-Python
+# Coursera
 
 Hello,
 
-This repo contains all my work from the  Data Analysis with Python IBM, Coursera course
+This repo contains all my work from the Coursera courses I've completed
